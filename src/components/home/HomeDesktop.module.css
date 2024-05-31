@@ -1,0 +1,473 @@
+.homeDesktopChild {
+  position: absolute;
+  top: 3000px;
+  left: 0px;
+  background: linear-gradient(
+    180deg,
+    #f9c9f1,
+    #d22cb0 50.5%,
+    rgba(136, 7, 100, 0.92)
+  );
+  width: 1600px;
+  height: 1000px;
+}
+
+.homeDesktopItem {
+  position: absolute;
+  top: 3635px;
+  left: calc(50% - 650px);
+  box-shadow: 0px 30px 35.2px 6px rgba(0, 0, 0, 0.5);
+  border-radius: 60px;
+  background-color: #fff;
+  width: 1300px;
+  height: 200px;
+}
+
+.homeDesktopInner {
+  position: absolute;
+  top: 2000px;
+  left: 0px;
+  background: linear-gradient(180deg, #350839, #7b25a0 43.4%, #e5b9ff);
+  width: 1600px;
+  height: 1000px;
+}
+
+.rectangleDiv {
+  position: absolute;
+  top: 1000px;
+  left: 0px;
+  background: linear-gradient(180deg, #a0affc, #1b0eac 50%, #080151);
+  width: 1600px;
+  height: 1000px;
+}
+
+.homeDesktopChild1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(
+    -84.27deg,
+    #d70d9f,
+    #b723ff 45.9%,
+    #c88eff 72.95%,
+    #551dcd
+  );
+  width: 1600px;
+  height: 1000px;
+}
+
+.home {
+  position: relative;
+  line-height: 8px;
+}
+
+.qrGenerator {
+  position: relative;
+  line-height: 8px;
+  white-space: pre-wrap;
+}
+
+.contact1 {
+  line-height: 8px;
+}
+
+.span {
+  font-size: 12px;
+  font-family: Inter;
+}
+
+.contact {
+  position: relative;
+}
+
+.homeParent {
+  position: absolute;
+  top: 3708px;
+  left: calc(50% - 207px);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  gap: 51px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "Martel Sans";
+}
+
+.homeGroup {
+  position: absolute;
+  top: 54px;
+  left: calc(50% + 153px);
+  filter: drop-shadow(0px 9px 15.4px rgba(0, 0, 0, 0.39));
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  gap: 51px;
+  text-align: left;
+  font-size: 18px;
+  font-family: "Martel Sans";
+}
+
+.scanQrCode31Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 244px;
+  height: 183px;
+  object-fit: cover;
+}
+
+.easy {
+  margin: 0;
+}
+
+.easyQr {
+  position: absolute;
+  top: 20px;
+  left: 80px;
+  line-height: 60px;
+  background: linear-gradient(180.3deg, #fff 24.4%, #2d2630 65.9%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo {
+  width: 100%;
+  position: relative;
+  height: 183px;
+  text-align: left;
+  font-size: 45px;
+  font-family: "Zen Dots";
+}
+
+.welcomeToTheContainer {
+  position: absolute;
+  top: 343px;
+  left: calc(50% - 647px);
+  font-size: 100px;
+  line-height: 110px;
+  display: inline-block;
+  background: linear-gradient(180deg, #2b1437 22.9%, #fff 49%, #282630 70.4%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 540px;
+  height: 366px;
+  text-shadow: 0px 15px 40px rgba(0, 0, 0, 0.35);
+}
+
+.qrCode14873212801Icon {
+  width: 400px;
+  position: relative;
+  height: 400px;
+  object-fit: cover;
+}
+
+.qrCode14873212801Wrapper {
+  position: absolute;
+  top: 316px;
+  left: 881px;
+  box-shadow: 0px 26px 33px rgba(0, 0, 0, 0.45);
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.qrCode14873212801Icon1 {
+  width: 300px;
+  position: relative;
+  height: 300px;
+  object-fit: cover;
+}
+
+.qrCode14873212801Container {
+  position: absolute;
+  top: 2517px;
+  left: calc(50% - 160px);
+  box-shadow: 0px 26px 33px rgba(0, 0, 0, 0.45);
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.qrCode14873212801Icon2 {
+  width: 250px;
+  position: relative;
+  height: 250px;
+  object-fit: cover;
+}
+
+.qrCode14873212801Frame {
+  position: absolute;
+  top: 1343px;
+  left: 1034px;
+  box-shadow: 0px 26px 33px rgba(0, 0, 0, 0.45);
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.followTheFollowing {
+  position: absolute;
+  top: 1065px;
+  left: calc(50% - 291px);
+  font-size: 48px;
+  line-height: 50px;
+  color: #000;
+  text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+
+.generateYourOwn {
+  position: absolute;
+  top: 2061px;
+  left: calc(50% - 307px);
+  font-size: 48px;
+  line-height: 50px;
+  text-shadow: 0px 30px 40px rgba(0, 0, 0, 0.4);
+}
+
+.contactUs {
+  position: absolute;
+  top: 3070px;
+  left: calc(50% - 126px);
+  font-size: 48px;
+  line-height: 50px;
+  white-space: pre-wrap;
+  text-shadow: 0px 30px 40px rgba(0, 0, 0, 0.4);
+}
+
+.pasteYourLink {
+  width: 253px;
+  position: relative;
+  line-height: 50px;
+  display: inline-block;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+.pasteYourLinkWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.buttonIcon {
+  width: 52px;
+  position: relative;
+  height: 42px;
+  object-fit: contain;
+}
+
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 46px;
+}
+
+.frameWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.frameDiv {
+  position: absolute;
+  top: 1238px;
+  left: 252px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.homeDesktopInner1 {
+  position: absolute;
+  top: 1388px;
+  left: 252px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.homeDesktopInner2 {
+  position: absolute;
+  top: 1538px;
+  left: 252px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.homeDesktopInner3 {
+  position: absolute;
+  top: 1688px;
+  left: 252px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.b {
+  position: absolute;
+  top: 1258px;
+  left: 192px;
+  line-height: 50px;
+  display: inline-block;
+  width: 54px;
+  height: 39px;
+}
+
+.b1 {
+  position: absolute;
+  top: 1408px;
+  left: 192px;
+  line-height: 50px;
+  display: inline-block;
+  width: 54px;
+  height: 39px;
+}
+
+.b2 {
+  position: absolute;
+  top: 1558px;
+  left: 192px;
+  line-height: 50px;
+  display: inline-block;
+  width: 54px;
+  height: 39px;
+}
+
+.b3 {
+  position: absolute;
+  top: 1708px;
+  left: 192px;
+  line-height: 50px;
+  display: inline-block;
+  width: 54px;
+  height: 39px;
+}
+
+.dbd0b51c20a695901a84c4c083500fIcon {
+  width: 40px;
+  position: relative;
+  height: 30px;
+  object-fit: cover;
+}
+
+.freeLinkedinIcon112Thumb1 {
+  width: 30px;
+  position: relative;
+  height: 30px;
+  object-fit: cover;
+}
+
+.githubLogo7880d80b8dSeeklogIcon {
+  width: 30.8px;
+  position: relative;
+  height: 30px;
+  object-fit: cover;
+}
+
+.dbd0b51c20a695901a84c4c083500fParent {
+  position: absolute;
+  top: 3913px;
+  left: 1179px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+
+.images1Icon {
+  position: absolute;
+  top: 3693px;
+  left: 225px;
+  width: 82px;
+  height: 78px;
+  object-fit: cover;
+}
+
+.homeDesktopChild2 {
+  position: absolute;
+  top: 2303px;
+  left: 1073px;
+  box-shadow: 0px 27px 43.2px rgba(0, 0, 0, 0.4);
+  border-radius: 51px;
+  background-color: #fff;
+  width: 150px;
+  height: 50px;
+}
+
+.homeDesktopChild3 {
+  position: absolute;
+  top: 2303px;
+  left: calc(50% - 625px);
+  box-shadow: 0px 20px 45px rgba(0, 0, 0, 0.41);
+  border-radius: 10px;
+  background-color: #fff;
+  width: 800px;
+  height: 50px;
+}
+
+.generate {
+  position: absolute;
+  top: 2301px;
+  left: 1108px;
+  font-size: 18px;
+  line-height: 45px;
+  font-family: "Amiri Quran Colored";
+  color: #000;
+  text-align: left;
+}
+
+.pasteYourLink4 {
+  position: absolute;
+  top: 2298px;
+  left: 205px;
+  font-size: 18px;
+  line-height: 50px;
+  font-family: "Amiri Quran Colored";
+  color: #766d6d;
+  text-align: left;
+}
+
+.homeDesktop {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 4500px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 36px;
+  color: #fff;
+  font-family: Kanit;
+}
